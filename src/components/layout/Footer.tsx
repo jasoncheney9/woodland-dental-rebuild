@@ -59,9 +59,11 @@ export function Footer() {
             <div className="flex items-start gap-3">
               <Clock className="h-5 w-5 mt-0.5 opacity-80" />
               <div className="text-sm opacity-80 space-y-1">
-                <p>Mon - Fri: 8am - 5pm</p>
-                <p>Saturday: By Appointment</p>
-                <p>Sunday: Closed</p>
+                <p>Mon: 8am - 5pm</p>
+                <p>Tue: 8am - 7pm</p>
+                <p>Wed: 8am - 5pm</p>
+                <p>Thu: 8am - 6pm</p>
+                <p>Fri: 8am - 3pm</p>
               </div>
             </div>
           </div>

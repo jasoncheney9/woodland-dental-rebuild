@@ -9,7 +9,7 @@ const navLinks = [
   { name: "Dental Services", href: "/services" },
   { name: "No Insurance", href: "/no-insurance" },
   { name: "FAQ", href: "/faq" },
-  { name: "Contact Us", href: "/contact" },
+  { name: "Contact Us", href: "/#contact" },
   { name: "Smile Gallery", href: "/gallery" },
 ];
 
